@@ -1,0 +1,20 @@
+# Model files (large binaries)
+*.model
+*.model.syn1neg.npy
+*.model.wv.vectors.npy
+
+# Cache
+*.pkl
+
+# Data directory
+Data-*/
+
+# Images
+*.png
+
+# Sweep results
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
